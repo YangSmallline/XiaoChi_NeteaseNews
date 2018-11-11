@@ -1,1 +1,2 @@
-# XiaoChi_NeteaseNews
+### XiaoChi_NeteaseNews
+早期在大学练习的android仿网易云新闻,只是轮播图的接口已经过时,适合初入门的基础扎实的人观看,获取广告时仿glide三级缓存
